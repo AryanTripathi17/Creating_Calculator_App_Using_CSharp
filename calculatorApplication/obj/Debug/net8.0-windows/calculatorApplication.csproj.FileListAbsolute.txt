@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\bin\Debug\net8.0-windows\calculatorApplication.exe
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\bin\Debug\net8.0-windows\calculatorApplication.deps.json
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\bin\Debug\net8.0-windows\calculatorApplication.runtimeconfig.json
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\bin\Debug\net8.0-windows\calculatorApplication.dll
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\bin\Debug\net8.0-windows\calculatorApplication.pdb
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.Form1.resources
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.AssemblyInfo.cs
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.dll
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\refint\calculatorApplication.dll
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.pdb
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\calculatorApplication.genruntimeconfig.cache
+C:\Users\ACER\source\repos\calculatorApplication\calculatorApplication\obj\Debug\net8.0-windows\ref\calculatorApplication.dll
